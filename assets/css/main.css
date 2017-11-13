@@ -1099,7 +1099,7 @@
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/mountain_purple.jpg");
+			background-image: url("../../images/mountain.jpg");
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
@@ -1111,14 +1111,14 @@
 			-webkit-transform: scale(1.0825);
 			-ms-transform: scale(1.0825);
 			transform: scale(1.0825);
-			-moz-filter: blur(0.2rem);
-			-webkit-filter: blur(0.2rem);
-			-ms-filter: blur(0.2rem);
-			filter: blur(0.2rem);
+			-moz-filter: blur(0rem);
+			-webkit-filter: blur(0rem);
+			-ms-filter: blur(0rem);
+			filter: blur(0rem);
 		}
 
 		body.is-loading #bg:before {
-			background-color: #000000;
+			background-color: #FFFFFF;
 		}
 
 /* Wrapper */
